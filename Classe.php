@@ -8,6 +8,7 @@ class Classe
     private $test;
     private $test2;
     private $test3;
+    private $test4;
     /**
      * Classe constructor.
      * @param string $string
