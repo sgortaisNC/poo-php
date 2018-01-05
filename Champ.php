@@ -4,6 +4,7 @@ class Champ
     private $_lvl = 1;
     private $_nom = "Test";
     private $_classe = null;
+    private $_truc;
 
     public function __construct(string $nom, Classe $classe,int $lvlInit)
     {
