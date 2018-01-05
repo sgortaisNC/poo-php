@@ -5,6 +5,7 @@ class Classe
 {
 
     private $_name;
+    private $test;
     /**
      * Classe constructor.
      * @param string $string
